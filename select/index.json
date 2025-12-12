@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Polytope",
+  "base_artist": "三浦大知",
+  "createdAt": "2025-12-12T15:05:37.502946Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Polytope",
+      "artist": "三浦大知",
+      "has_synced": false,
+      "path": "select/01_Polytope_三浦大知.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Polytope",
+      "artist": "Daichi Miura",
+      "has_synced": true,
+      "path": "select/02_Polytope_Daichi_Miura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Polytope",
+      "artist": "三浦 大知",
+      "has_synced": false,
+      "path": "select/pl_01_Polytope_三浦_大知.txt"
+    }
+  ]
+}
